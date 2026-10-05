@@ -1,6 +1,6 @@
 #Prova delle Variabili e i suoi tipi
 
-nomeVariabile = "valore"
+nomeVariabile = "valore o valori"
 numero= 1 
 
 print("--------------------------------------------------")
@@ -27,6 +27,8 @@ print("--------------------------------------------------")
 #Prova di metodi su nomeVariabile
 print(nomeVariabile.capitalize())
 print(nomeVariabile.istitle())
+print(nomeVariabile.find("valori"))
+print(nomeVariabile.count("a"))
 
 print("--------------------------------------------------")
 
