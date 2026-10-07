@@ -89,16 +89,16 @@ match scelta:
 
     case "rimozione":
         scelta=input("Cosa vuoi rimuovere? Nome, Eta , Sesso o Premium? ")
-        if scelta == 'nome':
+        if scelta == "nome":
             lista.pop(0)
         
-        elif scelta == 'eta':
+        elif scelta == "eta":
             lista.pop(1)
             
-        elif scelta == 'sesso':
+        elif scelta == "sesso":
             lista.pop(2)
         
-        elif scelta == 'premium':
+        elif scelta == "premium":
             lista.pop(3)    
         
         print(lista)
