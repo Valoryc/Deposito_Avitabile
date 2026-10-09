@@ -1,0 +1,115 @@
+Domanda 1: Cos'è Python? quali caratteristiche ha? spiegale.
+
+Python è un linguaggio di programmazione orientato ad oggetti e ha 4 caratteristiche fondamentali:
+
+-OOP: sta nella creazione di oggetti, e deve seguire 3 regole fondamentali + 1:
+
+    -Polimorfismo
+    -Ereditarietà
+    -Incapsulamento
+    -Astrazione
+
+-Interpretato: significa che fra quello che scriviamo noi e l'esecuzione del codice c'è un Interprete,
+                ovvero dal codice in Python lo "converte" in codice C
+
+-Alto Livello: vuol dire che è un linguaggio che si avvicina di più al linguaggio umano, rispetto a quello
+                a basso livello che è più verso il linguaggio macchina
+
+-Dinamico: significa che ad una variabile noi le possiamo assegnare più e più volte un tipo, siccome
+            è fortemente dinamico (o dinamicamente forte)
+            es:
+                x=5
+                x="Valentina"
+
+
+Domanda 2: Cos'è una variabile? Di che macro-tipi ne abbiamo? Spiegali
+
+Una variabile è uno degli elementi fondamentali della programmazione ed è caratterizzata da 4 specifiche:
+
+-Nome
+-Valore
+-Operatore
+-Tipo (è sottinteso)
+
+    Delle variabili, esistono due macro-tipi: Primitivi e Non Primitivi;
+        -Primitivi: significa che esistono già all'interno del linguaggio di programmazione
+                    (in questo caso Python), e alcuni di questi sono: i numeri interi(int),
+                    i numeri con virgola mobile(float), le stringhe che però sono dei tipi
+                    sepciali.
+
+        -Non Primitivi: significa che li creiamo noi
+
+
+Domanda 3: Cos'è il controllo del flusso? quali famiglie lo compongono? spiegale
+
+Il controllo del flusso gestisce l'esecuzione delle istruzioni in base al programma ed è
+composto da 3 tipi di famiglie:
+
+-Famiglia delle Condizioni: prevede il if-elif-else, i quali ci aiutano a verificare se la condizione di partenza
+                            viene attraversata o viene saltata; prevede anche il match, è come lo switch case di java
+                            che però dev'essere affiancato da una variabile possibilmente stringa poichè, è si possibilme
+                            mettere un numero però potrebbe non funzionare come dovuto (al massimo il numero lo mettiamo tra " ")
+
+-Famiglia dei Cicli: prevedono due tipi di cicli: While e For; il ciclo while è usato per quando non possiamo (o non riusciamo)
+                     a determinare i passi che il ciclo deve fare per concludersi, per questo è formato da una condizione, la quale
+                     permetterà di concludere il ciclo nel momento in cui la condizione sarà soddisfatta.
+                        -While Booleano: il while booleano è un semplice ciclo while, però nella condizione verranno messi i valori:
+                                        True o False, quando il valore sarà False il ciclo terminerà
+                    
+                    Il For invece, è un ciclo a conteggio, ciò significa che determiniamo o possiamo determinare le iterazioni che 
+                    il ciclo può fare, accompagnato dal range con al suo interno i valori: dell'inizio, dello stop, e dal numeri di passi che si vuol fare:
+                        es:
+                            for i in range(1,10,2)
+
+-Famiglia delle Funzioni
+
+
+Domanda 4: Cos'è una funzione? di che tipi ne abbiamo? spiegale
+
+Una funzione non è altro che un blocco di codice autonome che esegue un'operazione (con le funzioni abbiamo
+una dimostrazione implicita dell'astrazione);
+Le funzioni possono diversi in:
+
+-Funzioni con return: quelle con il return, riporteranno indietro il valore di tale operazione
+
+-Funzioni senza return: quelle senza il return, per avere il valore dell'operazione possiamo utilizzare un print()
+
+    Ogni funzione può avere o non avere i parametri:
+    -Parametri tipizzati: specificano di che tipo è quel parametro;
+                            es:
+                                def funzione1 (nome:str)
+
+    -Parametri default:   se non è specificato il tipo, lo possiamo impostare a 0
+                            es:
+                                def somma (a=0,b=0)
+
+
+Domanda 5: Cos'è il versionamento? A che serve github? e git desktop? spiegalo
+Il versionamento non è altro che il salvataggio dell'ultima modifica insieme a tutte le altre all'interno di un file;
+e github serve proprio a questo, è uno strumento utilizzato per il versionamento dei file;
+Git Desktop è uno strumento (un software) che ci permette di committare (mandare) e di pushare (inviare) i file di codice
+che scriviamo e di ritrovarceli direttamente sulla nostra pagina github 
+
+DOMANDE VERO O FALSO:
+
+Domanda 6: Una variabile non basilare è impostata da Python
+FALSO
+
+Domanda 7: Python non ha le costanti
+FALSO
+
+Domanda 8: Una variabile può non avere un tipo
+VERO
+
+
+DOMANDE A RISPOSTA MULTIPLA:
+
+Domanda 9: Cos'è un generatore?
+Una funzione che riporta un valore per ripetizione
+
+Domanda 10: Cosa differenzia while e for?
+Nessuna delle precedenti
+
+Domanda 11: Una lista si può definire...
+Modificabile, ordinata, definita da [] e list
+
