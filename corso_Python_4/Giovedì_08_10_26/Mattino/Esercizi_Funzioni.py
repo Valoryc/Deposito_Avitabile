@@ -21,7 +21,6 @@ while numeroUtente != 0:        #ciclo while per ripetere nel caso in cui abbia 
         
     numeroUtente=int(input("Inserisci di nuovo un numero o premi 0 per uscire "))   #Messaggio di inserimento di un nuovo numero o se vuole uscire
     
-    
 def fibonacci(n):
     if n<=1:            #Funzione per il calcolo di Fibonacci
         return n
