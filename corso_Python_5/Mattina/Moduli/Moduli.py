@@ -1,4 +1,4 @@
 def saluta(nome):
     print("Ciao " , nome)
     
-x=20
+x=10
