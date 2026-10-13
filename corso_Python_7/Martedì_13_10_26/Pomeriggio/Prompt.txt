@@ -1,0 +1,14 @@
+Prompt Engineering
+
+Contesto: Vincoli: Formato: Obbiettivo: || se hai capito rispondi SOLO ok OPPURE Mancano dati, Ogni nuova interazione ripeti questo prompt in memoria senza riscriverlo.
+
+Due Tecniche di Basso Livello:
+
+"se hai capito rispondi SOLO ok OPPURE Mancano dati"
+o
+"Ogni nuova interazione ripeti questo prompt in memoria senza riscriverlo"
+
+Contesto: Ciao, sono una stundetessa neo diplomata con diploma in informatica che da poco si sta approcciando nel linguaggio di programmazione Python, potresti spiegarmi la differenza con Java? E i metodi sono gli stessi per entrambi?
+Vincoli: Spiegamelo in maniera semplice senza usare terminologie complicate
+Formato: Suddividimelo in punti
+Obbiettivo: Ogni volta che ti do una parola in ambito OOP o programmazione Python spiegala
