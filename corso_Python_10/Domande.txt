@@ -1,0 +1,99 @@
+1 DOMANDA Cos'è Una classe? cos'è un oggetto? A che serve il self? spiegali
+
+La classe non è altro che un blueprint di oggetto e da essa definiamo il tipo dell'oggetto, l'oggetto
+è un'istanza reale della classe che può definire in maniera unica la variabile e utilizzare i metodi.
+La classe può essere definita una singola volta, invece gli oggetti possono essere definiti infinite volte:
+all'interno di esse ci troviamo:
+    -Variabili
+    -Metodi 
+    -Metodi Speciali (nonchè i metodi impliciti già forniti da Python, come ad esempio il costruttore o __init__)
+
+    Abbiamo diversi tipi di Metodi:
+    -istanza: li riconosciamo perchè nelle parentesi è presente il "self", la particolarità è che più veloce ma necessita
+                di avere un oggetto; il self sta ad indicare tale valore della variabile all'interno del costruttore o del metodo.
+
+    -classe: li riconosciamo perchè nelle parentesi è presente "cls" (non necessita di un oggetto), lavora con le classi e infine perchè utilizza un decoratore
+             @classmethod; la particolarità è che lavorando con tutta la classe, se essa viene modificata tutti gli oggetti verranno
+             modificati
+
+    -statici: li riconosciamo perchè sono INDIPENDENTI, ciò significa che non usano oggetti o classi e lavorano dove vogliono, ma non possiamo modificarlo, inoltre
+                li riconosciamo perchè sono accompagnati dal decoratore @staticmethod
+
+
+2 DOMANDA Cos'è l'Ereditarietà? Come funziona? Spiegala
+
+L'Ereditarietà è una delle tre regole fondamentali della OOP (Programmazione orientata agli oggetti), e la si utilizza quando da una classe Padre
+vogliamo creare una classe Figlia (la quale erediterà i metodi e le variabili dalla classe Padre, può modificarle ma non cancellarle); 
+L'Ereditarietà è formata a sua volta da tre caratteristiche:
+
+    -super(): è un metodo che utilizziamo per richiamare i metodi della classe Padre, ad esempio nel costruttore della classe Figlia possiamo richiamare
+                il costruttore della classe Padre attraverso di esso (o attraverso il nome della classe Padre, ma dipende dalla situazione)
+
+    -Sovrascrittura: è una strategia che vengono prese principalmente dalle classi Figlie, nella quale vanno a sovrascrivere un metodo della classe Padre
+                        come ad esempio un metodo stampa nella classe Padre, verrà sovrascritto nelle classi Figlie senza dover scrivere la stampa ogni volta
+
+    -Ereditarietà multipla: come già dimostrato prima, l'ereditarietà multipla non è altro che dalla creazione della classe Padre, si vanno a creare altre classi Figlie
+                            tutte che erediteranno i metodi , le variabili ecc. della classe Padre
+
+
+3 DOMANDA Cos'è l'incapsulamento? come funziona? spiegalo
+
+L'Incapsulamento è una delle tre regole fondamentali della OOP, e ci serve per nascondere dettagli del codice e mostrare solo quello che decidiamo noi; anche se
+siamo noi a scriverlo, esso già esiste.
+L'Incapsulamento lo possiamo riconoscere da questi tre Metodi:
+    -Attributi privati: sono delle istanze nella quale possiamo accedervi solo all'interno della classe origine, e noi per scriverlo e per far capire ci mettiamo due __ .
+
+    -Attributi protetti: sono delle istanze nella quale possiamo accedervi internamente dalla classe stessa o dalle classe figli che ereditano, ma non dall'esterno. Per scriverlo
+                            e per far capire a chi sta leggendo che attributo è per i protetti usiamo il _
+
+    -Metodi(get,set):  i metodi get e set, li utilizziamo principalmente per accedere o modificare gli attributi privati; infatti il get (o getter) è un metodo che ci restituisce un valore
+                        di un attributo privato, ed esso ci permette di leggere i dati inseriti.
+
+                        Al suo contrario il metodo set (o setter) serve per modificare il valore di un attributo privato, e diciamo che con esso ci dà la possibilità di acquisire il valore.
+
+L'Incapsulamento può anche essere passivo (noi non lo gestiamo in maniera diretta), ma con esso introduciamo dei tipi di "variabile":
+    -Globale: le variabili globale sono quelle che scriviamo a livello 0, e sono visibili per tutto il codice.
+
+    -Locale: le variabili locali le scriviamo principalmente all'interno di una funzione/classe e sono leggibili sono al suo interno.
+
+    -Non-Locale: le variabili non locali vengono scritte in maniera esplicite dal "nonlocal", principalmente le utilizziamo nelle funzioni
+                annidate.
+
+
+4 DOMANDA Cos'è il polimorfismo? come funziona? spiegalo
+
+Il polimorfismo è una delle tre regole fondamentali della OOP, in essa vediamo che se cambia il comportamento o forma di un elemento esso NON 
+DOVRA' cambiare tutto il resto; Si può manifestare in varie forme: con la Sovrascrittura, con simulazione di Overloading (con la quale può avere o meno i paramentri)
+
+Il polimorfismo può anche essere passivo, cioè: viene applicata a ciò che noi non facciamo e per bisogna imparare a gestirla;
+Inoltre in loro hanno il duck typing basta che abbiano almeno una cosa in comune.
+
+
+5 DOMANDA Cosa sono le funzioni ? Perché incarnano passivamente il concetto di astrazione? Cos'è l'astrazione nella programmazione ?
+
+Le funzioni sono blocchi di codice autonomi che eseguono una operazione, ed esse sono la DIMOSTRAZIONE DELL'ASTRAZIONE;
+in Python le funzioni vengono definite con def nome (). Inoltre sappiamo la funzione CHE COSA FA ma non sappiamo COME lo fa.
+L'astrazione se dobbiamo darle una definizione è semplicemente guardare quello che ci serve e ignorare tutto il resto; ecco perchè
+diciamo che le funzioni sono la DIMOSTRAZIONE perchè sappiamo COSA FA ma non il COME.
+
+
+6 DOMANDA Cos'è il concetto di controllo di flusso? Quali famiglie ne fanno parte? Spiega gli elementi di queste famiglie teoricamente
+Il controllo del flusso gestisce l'esecuzione delle istruzioni in base al programma ed è composto da 3 tipi di famiglie:
+
+-Famiglia delle Condizioni: prevede il if-elif-else, i quali ci aiutano a verificare se la condizione di partenza
+                            viene attraversata o viene saltata; prevede anche il match, è come lo switch case di java
+                            che però dev'essere affiancato da una variabile possibilmente stringa poichè, è si possibilme
+                            mettere un numero però potrebbe non funzionare come dovuto (al massimo il numero lo mettiamo tra " ")
+
+-Famiglia dei Cicli: prevedono due tipi di cicli: While e For; il ciclo while è usato per quando non possiamo (o non riusciamo)
+                     a determinare i passi che il ciclo deve fare per concludersi, per questo è formato da una condizione, la quale
+                     permetterà di concludere il ciclo nel momento in cui la condizione sarà soddisfatta.
+                        -While Booleano: il while booleano è un semplice ciclo while, però nella condizione verranno messi i valori:
+                                        True o False, quando il valore sarà False il ciclo terminerà
+                    
+                    Il For invece, è un ciclo a conteggio, ciò significa che determiniamo o possiamo determinare le iterazioni che 
+                    il ciclo può fare, accompagnato dal range con al suo interno i valori: dell'inizio, dello stop, e dal numeri di passi che si vuol fare:
+                        es:
+                            for i in range(1,10,2)
+
+-Famiglia delle Funzioni
