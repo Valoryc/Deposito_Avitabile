@@ -11,9 +11,9 @@ matrice=np.arange(n_inizio,n_fine).reshape(righe,colonne)  #Creazione della matr
 print("------------MENU------------")  #Menu
 print("BENVENUTO SCEGLI LA TUA OPERAZIONE!")
 
-scelta = int(input("1 Visualizza matrice, 2 Sottomatrice centrale, 3 Trasposta, 4 Somma, 5 Moltiplicazione element-wise, 6 Media, 7 Esci: "))
+scelta = int(input("1 Visualizza matrice, 2 Sottomatrice centrale, 3 Trasposta, 4 Somma, 5 Moltiplicazione element-wise, 6 Media, 7 Determina la matrice, 8 Esci: "))
 
-while scelta != 7:
+while scelta !=  8:
     if scelta == 1:
         print(matrice)  #Visualizza la matrice
 
@@ -50,8 +50,15 @@ while scelta != 7:
     elif scelta == 6:
         mean_value=np.mean(matrice2)  #Calcolo della media della seconda matrice
         print(mean_value)
+  
+    elif scelta == 7:
+        determinante=np.linalg.det(matrice)  #Calcolo della determinante della prima matrice
+        print("La determinante è: ",determinante)
+
+    else:
+        print("Scelta errata")
 
     print("------------------------------")
-    scelta = int(input("1 Visualizza matrice, 2 Sottomatrice centrale, 3 Trasposta, 4 Somma, 5 Moltiplicazione element-wise, 6 Media, 7 Esci: "))  #Riproposta di scelta
+    scelta = int(input("1 Visualizza matrice, 2 Sottomatrice centrale, 3 Trasposta, 4 Somma, 5 Moltiplicazione element-wise, 6 Media, 7 Determina la matrice, 8 Esci: "))  #Riproposta di scelta
 
 print("Uscita dal programma...")  #Termina il programma
