@@ -1,0 +1,805 @@
+Index,Anno,Marca,Modello,Prezzo Unitario,Quantita
+0,1969,Toyota,2000GT,187102,82
+1,1962,Ferrari,250 GTO,106267,15
+2,1954,Mercedes-Benz,300 SL Coupé,154313,4
+3,1994,Ferrari,F355 Berlinetta,192949,95
+4,1992,Ferrari,512 TR,85851,36
+5,2002,Ferrari,575M Maranello,46702,32
+6,1973,Porsche,911 Carrera RS,119700,29
+7,1995,Porsche,911 GT2,23655,18
+8,2004,Porsche,911 GT3,43841,95
+9,2007,Porsche,911 GT3,192148,14
+10,1982,Porsche,911 Turbo 3.3,110580,87
+11,1970,Porsche,914/6,122419,95
+12,1989,Porsche,944 Turbo,89100,70
+13,1987,Porsche,,197362,12
+14,2006,Vauxhall,Astra VXR,105908,76
+15,2004,Mercedes-Benz,C 32 AMG,170852,55
+16,2002,Chevrolet,Camaro 35th Anniversary Super Sport,94414,5
+17,1969,Chevrolet,Camaro Super Sport Coupe,60443,4
+18,1990,Vauxhall,Lotus Carlton,56068,12
+19,2003,Porsche,Carrera GT,66468,28
+20,2003,Toyota,Celica Sport Specialty II,11848,30
+21,2003,Ferrari,360 Challenge Stradale,61594,65
+22,1970,Chevrolet,Chevelle Super Sport 454,143076,78
+23,2004,Honda,Civic Type R,89536,4
+24,1965,Shelby,Cobra 427 S/C,146422,72
+25,1995,Volkswagen,Corrado VR6,162231,26
+26,1967,Chevrolet,Corvette Stingray 427,159828,92
+27,2002,Chevrolet,Corvette Z06,86319,84
+28,1970,Chevrolet,Corvette ZR-1,179491,90
+29,1988,Lamborghini,Countach LP5000 QV,170276,70
+30,1991,Honda,CR-X SiR,75996,54
+31,1992,Lancia,Delta HF Integrale EVO,60755,29
+32,1999,Lamborghini,Diablo GTR,192072,58
+33,1997,Lamborghini,Diablo SV,68295,76
+34,1969,Ferrari,Dino 246 GT,110936,36
+35,1995,Mitsubishi,Eclipse GSX,103950,1
+36,1971,Lotus,Elan Sprint,19120,98
+37,2002,Ferrari,Enzo Ferrari,148577,21
+38,2002,Lotus,Esprit V8,20407,90
+39,1961,Jaguar,E-type,165945,55
+40,1997,McLaren,F1 GT,73863,44
+41,1987,Ferrari,F40,22599,36
+42,1995,Ferrari,F50,23524,20
+43,1969,Nissan,Fairlady Z 432,80019,28
+44,2003,Nissan,Fairlady Z,88595,98
+45,1994,Nissan,Fairlady Z Version S Twin Turbo,118181,44
+46,2005,Ford,Ford GT,148827,14
+47,1998,Mitsubishi,FTO GP Version R,112810,12
+48,2003,Infiniti,G35 Coupe,54796,49
+49,1992,Volkswagen,Golf Gti 16v Mk2,96219,13
+50,2003,Volkswagen,Golf R32,161736,46
+51,1997,Mitsubishi,GTO,179041,45
+52,1984,Ferrari,288 GTO,9838,78
+53,1998,SUBARU,Impreza 22B-STi Version,161391,34
+54,2004,SUBARU,IMPREZA WRX STI,93587,6
+55,2005,Subaru,Impreza WRX STI,137687,94
+56,2001,Acura,Integra Type R,180124,59
+57,2006,Mitsubishi,Lancer Evolution IX MR,93922,69
+58,1999,Mitsubishi,Lancer Evolution VI GSR,25957,16
+59,2004,Mitsubishi,Lancer Evolution VIII MR,84816,49
+60,1997,BMW,M3,138605,11
+61,2005,BMW,M3,171297,71
+62,2004,Maserati,MC12,165754,38
+63,2005,Vauxhall,Monaro VXR,90370,81
+64,1995,Toyota,MR2 GT,57927,80
+65,2000,Ford,SVT Cobra R,84529,47
+66,2005,Honda,NSX-R,67432,74
+67,1992,Honda,NSX-R,137605,25
+68,1970,Buick,GSX,66929,91
+69,2006,Audi,RS 4,180481,9
+70,2003,Audi,RS 6,193089,6
+71,2002,Acura,RSX Type-S,62320,85
+72,1990,Mazda,Savanna RX-7,39009,30
+73,1997,Mazda,RX-7,32278,99
+74,2002,Mazda,RX-7 Spirit R Type-A,33810,38
+75,2004,Audi,S4,121028,11
+76,2004,Saleen,S7,90424,30
+77,2005,TVR,Sagaris,61432,13
+78,1992,Nissan,Silvia CLUB K’s,94935,49
+79,1994,Nissan,Silvia K’s,77851,36
+80,2000,Nissan,Silvia Spec-R,121870,59
+81,1993,Nissan,Skyline GT-R V-Spec,103397,82
+82,2002,Nissan,Skyline GT-R V-Spec II,100098,47
+83,2003,Renault,Sport Clio V6,152608,21
+84,1985,Toyota,Sprinter Trueno GT Apex,27939,48
+85,1996,Dodge,Stealth R/T Turbo,37308,46
+86,1992,Toyota,Supra 2.0 GT,29086,27
+87,1998,Toyota,Supra RZ,147406,86
+88,1998,Eagle,Talon TSi Turbo,168723,35
+89,2001,Aston Martin,V12 Vanquish,32120,90
+90,1999,Dodge,Viper GTS ACR,24803,88
+91,1993,Jaguar,XJ220,93375,83
+92,2003,Bentley,#7 Team Bentley Speed 8,185325,10
+93,1999,BMW,#15 BMW Motorsport V12 LMR,117441,78
+94,1969,Dodge,Charger R/T,191756,82
+95,1998,Ferrari,#12 Risi Competizione F333 SP,30742,22
+96,1987,Porsche,#17 Porsche AG 962c,9118,69
+97,1993,Peugeot,#3 Peugeot Talbot Sport 905 EVO 1C,97761,94
+98,1999,Toyota,#3 Toyota Motorsports GT-ONE TS020,76967,32
+99,2002,BMW,M3-GTR,113070,21
+100,1998,Nissan,R390 (GT1),165917,60
+101,1997,Mercedes-Benz,CLK GTR,128980,49
+102,1984,Audi,Sport quattro,11313,35
+103,1980,Renault,5 Turbo,56230,82
+104,1967,Lamborghini,Miura P400,39894,89
+105,1970,Dodge,Challenger R/T,21816,72
+106,1997,Porsche,911 GT1 Strassenversion,13467,29
+107,1991,BMW,M3,50464,88
+108,1973,Pontiac,Firebird Trans Am SD-455,192421,42
+109,2008,Mitsubishi,Lancer Evolution X GSR,150306,99
+110,2008,BMW,M3,180826,100
+111,1996,Ferrari,F50 GT,53255,8
+112,2007,Ferrari,430 Scuderia,102391,30
+113,1989,Ferrari,F40 Competizione,30208,5
+114,2007,Alfa Romeo,8C Competizione,191917,41
+115,1990,Chevrolet,Camaro IROC-Z,184800,52
+116,1994,Toyota,Celica GT-Four ST205,34971,35
+117,1981,BMW,M1,144377,9
+118,1993,Ford,SVT Cobra R,140116,28
+119,1971,Nissan,Skyline 2000GT-R,152821,73
+120,1997,Nissan,Skyline GT-R V-Spec,33103,92
+121,1987,Pontiac,Firebird Trans Am GTA,184070,41
+122,2008,Dodge,Viper SRT10 ACR,51109,28
+123,2008,BMW,Z4 M Coupe,113671,84
+124,2008,SUBARU,IMPREZA WRX STI,144342,64
+125,1969,Dodge,Charger Daytona HEMI,120699,51
+126,1979,Chevrolet,Camaro Z28,77155,83
+127,2002,Pontiac,Firebird Trans Am Ram Air,92472,59
+128,2009,Chevrolet,Corvette ZR1,135520,19
+129,2008,Aston Martin,DBS,105950,34
+130,2009,Ford,Focus RS,42808,18
+131,2009,Mercedes-Benz,SL 65 AMG Black Series,94491,32
+132,1960,Chevrolet,Corvette,187284,96
+133,1970,Datsun,,169526,72
+134,1964,Aston Martin,DB5,89112,69
+135,1994,Mazda,MX-5 Miata,145977,34
+136,2019,Audi,R8 5.2,148965,96
+137,1980,Abarth,Fiat 131,111332,75
+138,2008,Lamborghini,Reventon,189803,55
+139,2009,BMW,M5,96628,75
+140,2011,McLaren,12C Coupe,128406,52
+141,2009,Ferrari,458 Italia,51412,47
+142,1965,Alfa Romeo,Giulia Sprint GTA Stradale,25107,29
+143,1957,Ferrari,250 Testa Rossa,34606,18
+144,1965,Shelby,Cobra Daytona Coupe,163215,66
+145,2010,Ferrari,599XX,90366,64
+146,2010,Lamborghini,Murciélago LP 670-4 SV,105533,12
+147,2010,Aston Martin,One-77,12240,97
+148,2009,Audi,RS 6,40637,7
+149,2011,Mercedes-Benz,SLS AMG,39312,15
+150,2011,Audi,RS 3 Sportback,28338,20
+151,2010,BMW,M6 Coupé '10,190374,81
+152,1992,Bugatti,EB110 Super Sport,9885,21
+153,2010,Audi,TT RS Coupe,121556,88
+154,2008,Mazda,Furai,14593,55
+155,2010,Volkswagen,Golf R,140432,77
+156,2010,Lexus,LFA,145584,9
+157,1971,AMC,Javelin AMX,92360,50
+158,2002,BMW,Z3 M Coupé,181164,49
+159,1973,BMW,2002 Turbo,95139,77
+160,1992,Ford,Escort RS Cosworth,108724,60
+161,1997,Honda,Civic Type R,123032,68
+162,1971,Plymouth,Cuda 426 HEMI,65295,33
+163,1973,Ford,XB Falcon GT,37688,71
+164,1970,Mercury,Cougar Eliminator,185143,2
+165,1955,Porsche,550 Spyder,133645,88
+166,1993,Nissan,240SX SE,145896,93
+167,1986,BMW,M635 CSi,97087,15
+168,1970,Chevrolet,El Camino Super Sport 454,140390,88
+169,1986,Dodge,Shelby Omni GLHS,185013,69
+170,1987,Ford,Sierra Cosworth RS500,144237,97
+171,1990,Mercedes-Benz,190E 2.5-16 Evolution II,50996,35
+172,1983,Volvo,242 Turbo Evolution,29881,99
+173,1964,Chevrolet,Impala Super Sport 409,186834,83
+174,1956,Jaguar,D-Type,100808,44
+175,1977,Ford,Escort RS1800,92491,15
+176,2005,Dodge,SRT-4 ACR,186687,38
+177,1969,Pontiac,GTO Judge,86164,56
+178,1993,McLaren,F1,34827,21
+179,2010,Chevrolet,#55 Level 5 Motorsports Oreca FLM09,136683,59
+180,2011,Lamborghini,Gallardo LP 570-4 Superleggera,40154,1
+181,2011,SUBARU,WRX STI,199237,93
+182,2011,Alfa Romeo,Giulietta Quadrifoglio Verde,16330,93
+183,2011,Bugatti,Veyron Super Sport,178484,34
+184,1987,Buick,Regal GNX,184337,65
+185,1970,Chevrolet,Camaro Z28,32264,98
+186,1971,Plymouth,GTX 426 HEMI,37309,23
+187,1991,Mazda,#55 Mazda 787B,6032,65
+188,1969,Oldsmobile,Hurst/Olds 442,43225,14
+189,1969,Pontiac,Firebird Trans Am,23176,81
+190,2011,Peugeot,308 GTI,135845,39
+191,2011,BMW,X5 M,129595,82
+192,1970,Dodge,Coronet Super Bee,77702,65
+193,1966,Chevrolet,Nova Super Sport,153897,78
+194,1965,Ford,Mustang GT Coupe,39065,26
+195,2003,BMW,M5,153569,20
+196,1988,BMW,M5,22560,48
+197,2010,Pagani,Zonda Cinque Roadster,145091,98
+198,1995,Audi,Avant RS 2,111173,21
+199,1930,Bentley,8 Litre,22332,70
+200,1996,Chevrolet,Impala Super Sport,66021,100
+201,1981,Volkswagen,Scirocco S,136881,68
+202,1992,Mitsubishi,Galant VR-4,166472,1
+203,1990,SUBARU,LEGACY RS,15121,77
+204,1998,Volkswagen,Gti VR6 Mk3,27142,42
+205,2011,BMW,1 Series M Coupé,128327,63
+206,1958,Aston Martin,DBR1,127254,3
+207,1997,Volvo,850 R,36347,15
+208,2012,BMW,M5,22096,47
+209,2011,Lamborghini,Sesto Elemento,110212,40
+210,1992,Alfa Romeo,155 Q4,10988,31
+211,1989,Toyota,MR2 SC,112576,8
+212,2011,HSV,GTS,32479,31
+213,2010,Mazda,Racing B09/86,183226,73
+214,2011,Audi,RS 5 Coupe,157356,11
+215,1995,BMW,M5,158390,11
+216,2011,Mazda,RX-8 R3,133235,94
+217,2012,Pagani,Huayra,159373,63
+218,2011,Volkswagen,Scirocco R,191990,9
+219,1969,Chevrolet,Nova Super Sport 396,22038,98
+220,1963,Volkswagen,Beetle,75734,69
+221,2011,Ferrari,Risi Competizione 458 Italia GTC,9203,99
+222,2012,Ascari,KZ1R,75688,17
+223,1969,McLaren,#4 McLaren Cars M8B,172724,17
+224,1957,Chevrolet,Bel Air,181627,85
+225,1957,Maserati,300 S,199587,61
+226,1986,Audi,#2 Audi Sport quattro S1,14773,71
+227,1985,Mazda,RX-7 GSL-SE,126972,22
+228,1965,Austin-Healey,3000 MkIII,61053,34
+229,1973,AMC,Gremlin X,193641,68
+230,1966,Ford,Lotus Cortina,9434,78
+231,1958,MG,MGA Twin-Cam,8796,55
+232,2012,Vauxhall,Astra VXR,150766,28
+233,1995,BMW,850CSi,8495,70
+234,2012,Mercedes-Benz,C 63 AMG Coupé Black Series,128720,97
+235,1993,Ford,Mustang SVT Cobra R,124723,94
+236,1968,Holden,Monaro GTS 327,89929,89
+237,1997,Maserati,Ghibli Cup,103076,26
+238,1973,Mazda,RX-3,59686,92
+239,1992,Toyota,Celica GT-Four RC ST185,86075,40
+240,1998,Aston Martin,V8 Vantage V600,124101,52
+241,1961,Maserati,Tipo 61 Birdcage,79730,86
+242,2012,Mercedes-Benz,SLK 55 AMG,190029,84
+243,1977,Holden,Torana A9X,64067,48
+244,2013,Lexus,GS350 F Sport,184899,57
+245,1973,Alpine,A110 1600s,166295,67
+246,1974,Toyota,Corolla SR5,120746,58
+247,2012,Porsche,911 GT2 RS,102177,16
+248,1968,Alfa Romeo,33 Stradale,89557,32
+249,1960,Aston Martin,DB4 GT Zagato,130053,29
+250,1989,Aston Martin,#18 Aston Martin AMR1,112717,9
+251,1966,Chaparral,#66 Chaparral Cars 2E,128480,44
+252,1955,Mercedes-Benz,300 SLR,157222,3
+253,1989,Mercedes-Benz,#63 Sauber-Mercedes C 9,13509,76
+254,2013,SRT,Viper GTS,112762,71
+255,1953,Chevrolet,Corvette,20389,30
+256,1970,AMC,Rebel The Machine,166799,76
+257,1989,Audi,#4 Audi 90 quattro IMSA GTO,98701,29
+258,1958,Austin-Healey,Sprite MkI,7398,1
+259,1988,Chevrolet,Monte Carlo Super Sport,145800,10
+260,1962,Ferrari,250 GT Berlinetta Lusso,86598,91
+261,1973,Ford,Escort RS1600,145298,81
+262,2012,Lamborghini,Aventador J,108748,8
+263,1972,Mazda,Cosmo 110S Series II,95823,30
+264,1966,MG,MGB GT,106414,9
+265,1984,Peugeot,205 Turbo 16,49136,5
+266,1974,Toyota,Celica GT,70037,43
+267,2010,BMW,M3 GTS,84393,10
+268,2012,Ferrari,599XX Evolution,134021,66
+269,2013,Audi,RS 4 Avant,156394,31
+270,1988,Volkswagen,Scirocco 16v,187680,36
+271,1969,FIAT,Dino 2.4 Coupe,28710,86
+272,1967,Mercedes-Benz,280 SL,147052,63
+273,2012,Dodge,Challenger SRT8,34482,28
+274,2013,Ariel,Atom 500 V8,66067,70
+275,2013,Caterham,Superlight R500,150646,17
+276,2013,KTM,X-Bow R,120002,93
+277,2007,Ford,Mustang GT500,114838,74
+278,2013,SUBARU,BRZ,85324,74
+279,2013,Mercedes-Benz,A 45 AMG,186628,61
+280,1965,MINI,Cooper S,159456,32
+281,2012,Infiniti,IPL G Coupe,28100,61
+282,2011,Citroen,DS 3 Racing,95661,53
+283,2013,McLaren,P1,152288,25
+284,1969,Ford,Mustang Boss 302,166722,13
+285,1988,McLaren,#12 Honda McLaren MP4/4,113261,13
+286,1966,McLaren,M2B,53769,85
+287,1976,McLaren,#11 Team McLaren M23,169884,56
+288,2012,MINI,John Cooper Works GP,103245,46
+289,2013,Mazda,MX-5,120122,55
+290,2009,Honda,S2000 CR,178553,53
+291,1995,Chevrolet,Corvette ZR-1,53571,60
+292,2013,Toyota,86,129216,94
+293,2013,Audi,RS 7 Sportback,102162,7
+294,2013,Audi,R8 Coupé V10 plus 5.2 FSI quattro,44429,87
+295,1976,Ferrari,#1 Scuderia Ferrari 312 T2,89648,84
+296,1968,Abarth,595 esseesse,6430,83
+297,2013,BMW,M6 Coupé,29543,13
+298,2003,Ford,Focus RS,166419,8
+299,1967,Lotus,Type 49,109490,52
+300,1967,Brabham,BT24,100928,94
+301,2013,Ferrari,LaFerrari,58363,44
+302,2014,Alfa Romeo,4C,148341,14
+303,2014,BAC,Mono,91725,32
+304,2013,Lamborghini,Veneno,191411,25
+305,1945,Willys,MB Jeep,183540,25
+306,2014,Maserati,Ghibli S Q4,38384,69
+307,1926,Bugatti,Type 35 C,137567,58
+308,1939,Maserati,8CTF,63576,18
+309,1939,Mercedes-Benz,W154,86235,55
+310,2015,Mazda,Formula Mazda,68978,24
+311,1939,Auto Union,Type D,105199,36
+312,2014,Lexus,IS 350 F Sport,134115,60
+313,1979,BMW,#6 BMW Motorsport M1 Procar,170834,32
+314,2013,Dodge,Dart GT,189409,10
+315,2013,Donkervoort,D8 GTO,144942,57
+316,1975,BMW,#25 BMW Motorsport 3.0 CSL,34461,71
+317,2013,Holden,Xbox Racing Team Commodore VF,138363,13
+318,1981,Ford,#2 Zakspeed Racing Capri Turbo,168665,7
+319,1990,Ferrari,#1 Scuderia Ferrari 641,25791,84
+320,2013,Cadillac,XTS Limousine,97416,70
+321,2014,HSV,GEN-F GTS,160966,2
+322,2015,BMW,i8,9302,12
+323,1980,Subaru,BRAT GL,96543,97
+324,2014,Volkswagen,Golf R,156747,31
+325,1993,Renault,Clio Williams,116659,22
+326,1963,Volkswagen,Type 2 De Luxe,28772,53
+327,2014,BMW,M4 Coupé,23412,63
+328,1981,Ford,Fiesta XR2,187393,62
+329,1979,Opel,Kadett C GT/E,132117,28
+330,1965,Alfa Romeo,Giulia TZ2,136782,52
+331,2015,Jaguar,F-TYPE R Coupé,91908,8
+332,2015,Lamborghini,Huracan LP 610-4,103540,22
+333,2011,Lotus,Evora S,133454,49
+334,2014,Infiniti,Q50 Eau Rouge,162223,1
+335,2015,SUBARU,WRX STI,59703,50
+336,2015,Lexus,RC F,171709,34
+337,2015,Chevrolet,Corvette Z06,171160,59
+338,2001,Audi,RS 4 Avant,104675,37
+339,2015,Audi,S1,194689,55
+340,2015,Audi,RS 6 Avant,157129,90
+341,2013,Aston Martin,V12 Vantage S,138778,94
+342,2015,Audi,TTS Coupe,147890,72
+343,2015,Chevrolet,Camaro Z/28,21424,85
+344,2013,Ferrari,458 Speciale,175411,92
+345,2015,Jaguar,XFR-S,86585,63
+346,1953,Ferrari,500 Mondial,67377,20
+347,2014,Koenigsegg,One:1,168532,25
+348,2015,McLaren,650S Coupe,21089,38
+349,2000,BMW,323ti Sport,63610,28
+350,2014,Ferrari,California T,160125,8
+351,1988,Holden,VL Commodore Group A SV,15395,75
+352,1970,Honda,S800,84262,95
+353,1972,Lamborghini,Jarama S,33849,70
+354,1992,Mazda,323 GT-R,170763,8
+355,2014,Chevrolet,#3 Corvette Racing Corvette C7.R,83158,96
+356,2014,Dodge,#93 SRT Motorsports Viper GTS-R,165755,41
+357,2015,Jaguar,XKR-S GT,101032,8
+358,2014,Mazda,#70 SpeedSource Lola B12/80,190457,7
+359,1990,Mazda,MX-5 Miata,32164,75
+360,1970,Volkswagen,#1107 Desert Dingo Racing Stock Bug,37453,62
+361,2016,Cadillac,ATS-V,127296,65
+362,1967,Honda,RA300,178480,68
+363,1976,Lotus,#5 Team Lotus 77,187604,21
+364,2016,Mazda,MX-5,118097,8
+365,1963,Ferrari,250LM,63131,66
+366,1969,Nissan,#21 Nissan Racing R382,187391,11
+367,1973,Nissan,Skyline H/T 2000GT-R,67469,24
+368,2014,Audi,#2 Audi Team Joest R18 e-tron quattro,157663,9
+369,1969,Datsun,2000 Roadster,170011,77
+370,1967,Eagle-Weslake,T1G,167340,9
+371,2014,Porsche,911 Turbo S,155301,87
+372,2014,Porsche,918 Spyder,128342,31
+373,2022,Porsche,Cayman GTS,65016,52
+374,1978,Porsche,Racing 935/78 #43,107013,16
+375,1957,Porsche,356A Speedster,42444,73
+376,1999,BMW,V12 LMR #16,95840,32
+377,2014,Toyota,#8 Toyota Racing TS040 HYBRID,173216,75
+378,1969,Lola,#10 Simoniz Special T163,142018,77
+379,2014,Ford,#17 AMD Tuning Focus ST BTCC,149405,6
+380,1982,Ferrari,#72 N.A.R.T. 512 BB/LM,159959,80
+381,1990,Mercury,#15 Whistler Radar Cougar XR-7,70071,11
+382,1991,Mazda,#62 Mazda Motorsport RX-7,98234,54
+383,2017,Acura,NSX,156838,85
+384,2017,Ford,Focus RS,160022,75
+385,2017,Ford,GT,133738,73
+386,2015,Nissan,#23 GT-R LM NISMO,148266,67
+387,2014,Ferrari,FXX K,41600,41
+388,2015,Lamborghini,#63 Squadra Corse Huracan LP620-2 Super Trofeo,22502,34
+389,2016,Ford,Shelby GT350R,121419,27
+390,1964,Ferrari,F-158 F1,36315,86
+391,2014,Bentley,#17 M-Sport Bentley Continental GT3,70889,92
+392,2000,Lotus,340R,18192,41
+393,2015,Ford,#02 Chip Ganassi Racing Riley Mk XXVI Daytona Prototype,6530,31
+394,1957,BMW,Isetta 300 Export,161584,34
+395,1973,Holden,HQ Monaro GTS 350,101671,51
+396,2016,Cadillac,CTS-V Sedan,134179,17
+397,2014,HSV,Limited Edition GEN-F GTS Maloo,81659,86
+398,1969,Lola,#6 Sunoco T70 MkIIIB,147065,83
+399,1990,Alpine,GTA Le Mans,94172,39
+400,2016,Vauxhall,Corsa VXR,125090,59
+401,2016,W Motors,Lykan HyperSport,193412,41
+402,2016,Ariel,Nomad,21465,97
+403,2015,BMW,X6 M,63336,10
+404,1992,Toyota,#99 All American Racers Toyota Eagle MkIII,184097,2
+405,2015,Ferrari,488 GTB,40348,59
+406,2015,Dodge,Charger SRT Hellcat,117856,80
+407,1965,Toyota,Sports 800,22690,73
+408,2016,Aston Martin,Vulcan,40325,13
+409,2016,Mercedes-AMG,C 63 S Coupé,112933,10
+410,2016,Audi,R8 V10 plus,108802,69
+411,2016,Zenvo,ST1,69487,28
+412,2016,Spania GTA,GTA Spano,148776,65
+413,2016,BMW,M2 Coupé,187498,34
+414,2016,Lamborghini,Aventador Superveloce,67062,17
+415,2015,McLaren,P1 GTR,28931,45
+416,1984,Nissan,#20 Bluebird Super Silhouette,51725,9
+417,1991,Nissan,#23 Nissan R91CP,145405,32
+418,2015,Chevrolet,#10 Konica Minolta Corvette Daytona Prototype,30507,48
+419,2015,Radical,RXC Turbo,108391,37
+420,1979,Datsun,#33 280ZX Turbo,101056,21
+421,2016,Abarth,695 Biposto,170339,57
+422,2015,Aston Martin,Vantage GT12,33015,70
+423,1953,Maserati,A6GCS/53 PininFarina Berlinetta,180059,91
+424,1955,Chevrolet,150 Utility Sedan,62841,39
+425,1987,Nissan,Skyline GTS-R (HR31),110999,79
+426,1992,Ford,Falcon GT,13714,84
+427,2016,Chevrolet,Camaro Super Sport,17960,68
+428,2017,Aston Martin,DB11,107246,2
+429,2016,Porsche,911 GT3 RS,156702,86
+430,2022,Porsche,Cayman GT4,36218,71
+431,1980,Porsche,924 Carrera GTS,122151,39
+432,1993,Porsche,968 Turbo S,161229,85
+433,1993,Porsche,928 GTS,116569,14
+434,1960,Porsche,718 RS 60,31210,18
+435,2015,Porsche,#91 Porsche Team Manthey 991 RSR,105488,34
+436,2016,Lotus,3-Eleven,63875,15
+437,2017,Alfa Romeo,Giulia Quadrifoglio,98794,14
+438,2016,Ford,#66 Ford Racing GT Le Mans,67353,96
+439,2016,Dodge,Viper ACR,82383,71
+440,1978,Porsche,MOMO 935/78 #78,157523,20
+441,1970,Porsche,#3 917 LH,23289,35
+442,2014,Ford,FPV Limited Edition Pursuit Ute,91572,37
+443,2015,Alumi Craft,Class 10 Race Car,39369,78
+444,1959,Jaguar,Mk II 3.8,133967,27
+445,1979,Toyota,FJ40,157772,92
+446,1969,Volkswagen,Class 5/1600 Baja Bug,141877,44
+447,2015,Ultima,Evolution Coupe 1020,132155,27
+448,2554,AMG Transport Dynamics,M12S Warthog CST,32229,88
+449,2015,Ferrari,F12tdf,87917,82
+450,2015,Ford,Falcon GT F 351,157757,34
+451,1972,Chrysler,VH Valiant Charger R/T E49,101697,65
+452,1996,HSV,GTSR,138673,63
+453,1985,HDT,VK Commodore Group A,72531,33
+454,1972,Ford,Falcon XA GT-HO,100329,7
+455,2015,Volvo,V60 Polestar,164286,12
+456,1988,Holden,HSV Commodore Group A SV,95060,82
+457,1968,Ford,Mustang GT 2+2 Fastback,191867,55
+458,2016,Lamborghini,Centenario LP 770-4,39883,36
+459,2017,Nissan,GT-R (R35),186514,6
+460,2018,Bugatti,Chiron,105173,1
+461,2016,Bentley,Bentayga,21419,43
+462,2016,BMW,M4 GTS,44343,99
+463,1993,Toyota,#1 T100 Baja Truck,62060,17
+464,2016,Pagani,Huayra BC,106964,82
+465,2017,Mercedes-AMG,GT R,74681,34
+466,2007,Toyota,Hilux Arctic Trucks AT38,103152,21
+467,1998,Nissan,Silvia K’s Aero,59354,95
+468,2017,Bentley,Continental Supersports,69141,57
+469,2017,Chevrolet,Camaro ZL1,37023,71
+470,2017,Abarth,124 Spider,154966,91
+471,2017,Porsche,Panamera Turbo,61149,55
+472,2016,Toyota,Land Cruiser Arctic Trucks AT37,75338,72
+473,2018,Porsche,911 GT2 RS,162068,2
+474,2017,Ford,#17 Shell V-Power Racing Team Falcon FG X,106865,15
+475,2017,Porsche,#2 Porsche Team 919 Hybrid,196718,10
+476,2017,Porsche,#92 Porsche GT Team 911 RSR,154515,89
+477,1976,Chevrolet,#76 Greenwood Corvette,50943,20
+478,1966,Ford,#2 GT40 MkII Le Mans,134540,70
+479,1967,Ferrari,#24 Ferrari Spa 330 P4,50872,5
+480,1993,Porsche,911 Turbo S Leichtbau,161078,48
+481,2017,Holden,#22 Walkinshaw Performance VF Commodore,49693,75
+482,2017,Nissan,Altima Racecar,33003,71
+483,1983,Jaguar,#44 Group 44 XJR-5,37168,19
+484,1984,Nissan,#11 Tomica Skyline Turbo Super Silhouette,52700,56
+485,2000,Honda,Prelude Type SH,114867,17
+486,1967,Nissan,R380 II,37093,6
+487,2017,BMW,#24 BMW Team RLL M6 GTLM,21690,40
+488,1988,Jaguar,#1 Jaguar Racing XJR-9,83709,47
+489,2017,VUHL,05RR,193593,6
+490,2018,McLaren,720S Coupe,116192,46
+491,2017,Chevrolet,Colorado ZR2,122983,27
+492,2018,Audi,#1 Audi Sport RS 3 LMS,118571,88
+493,2016,Audi,#17 Rotek Racing TT RS,51544,32
+494,2017,Aston Martin,Vantage GT3 Racing V12,197916,86
+495,2018,Exomotive,Exocet Sport V8 XP-5,61020,14
+496,1982,Ford,#6 Zakspeed Roush Mustang IMSA GT,115513,46
+497,1971,Porsche,917/20 #23,52436,100
+498,2018,Honda,Civic Type R,57832,72
+499,2018,Can-Am,Maverick X RS Turbo R,130150,53
+500,2019,Hyundai,Veloster N,121194,80
+501,2018,Nissan,Sentra NISMO,132168,96
+502,2017,Mercedes-Benz,#33 Mac Tools Ciceley Motorsports A-Class (A45),45597,20
+503,2018,Dodge,Challenger SRT Demon,115110,31
+504,2017,Koenigsegg,Agera RS,69148,21
+505,2017,Oreca,#38 Jackie Chan DC Racing Oreca 07,6267,23
+506,2023,Aston Martin,Valkyrie,89014,53
+507,2019,Ferrari,#62 Risi Competizione 488 GTE,131356,4
+508,2017,Alpine,A110,167411,23
+509,2017,Ferrari,812 Superfast,77016,95
+510,1930,Bentley,Blower 4-1/2 Litre Supercharged,28886,43
+511,1964,Ford,GT40 Mk I,161502,53
+512,1986,Ford,Escort RS Turbo,152250,86
+513,2018,McLaren,Senna,69974,95
+514,2018,TVR,Griffith,101240,32
+515,1983,Volkswagen,Golf GTI,89438,35
+516,2015,Formula Drift,Ford Mustang #13,171550,21
+517,2016,Formula Drift,HSV Maloo GEN-F #530,159299,90
+518,1997,Formula Drift,Nissan 240SX #777,30239,14
+519,2006,Formula Drift,Dodge Viper SRT10 #43,109427,49
+520,2017,Volkswagen,Beetle #34,25499,5
+521,1985,Nissan,#83 GTP ZX-Turbo,62710,61
+522,1948,Ferrari,166 Inter Sport,126185,29
+523,1983,Porsche,#11 John Fitzpatrick Racing 956,157901,26
+524,1967,Aston Martin,DBS,56923,59
+525,1986,Merkur,#11 MAC Tools XR4Ti,124449,45
+526,2018,KTM,X-Bow GT4,33462,40
+527,2018,Ford,Mustang GT,49419,30
+528,1970,Ferrari,512 S,30734,29
+529,2018,Mercedes-AMG,GT 4-Door Coupé,57738,4
+530,2018,BMW,M5,39435,85
+531,2019,Porsche,911 GT3 RS,171430,25
+532,2018,BMW,#1 BMW M Motorsport M8 GTE,65688,52
+533,1963,Shelby,Monaco King Cobra,13091,43
+534,1969,Matra-Simca,Equipe MS650 Tour de France,112760,36
+535,2019,Aston Martin,Vantage,102445,9
+536,2018,Morgan,Aero GT,66298,99
+537,2017,Ferrari,#25 Corse Clienti 488 Challenge,178829,36
+538,2018,Porsche,718 Cayman GTS,171742,45
+539,2019,Chevrolet,Corvette ZR1,6378,83
+540,2019,Porsche,911 Carrera S,197867,66
+541,2017,Aston Martin,Vanquish Zagato Coupe,35725,52
+542,2008,Renault,Mégane R26.R,178166,87
+543,2018,Renault,Megane R.S.,7712,69
+544,2019,Rimac,Concept Two,11209,43
+545,2018,Apollo,Intensa Emozione,114668,4
+546,2018,Chevrolet,Camaro ZL1 1LE,148326,15
+547,2018,McLaren,600LT Coupé,154115,34
+548,2019,McLaren,720S Spider,25630,23
+549,2019,McLaren,Senna GTR,152479,75
+550,2019,McLaren,#03 720S GT3,59979,34
+551,1991,Ford,#15 Roush Racing Whistler Mustang,116257,5
+552,2018,Volkswagen,#22 Experion Racing Golf GTI,161402,14
+553,2018,Chevrolet,Hot Wheels COPO Camaro,172061,77
+554,2019,Bugatti,Divo,169716,56
+555,1991,Bentley,Turbo R,17632,45
+556,2019,BMW,Z4 Roadster,135705,94
+557,1986,Ford,Mustang SVO,100433,41
+558,2016,Renault,Clio R.S. 16 Concept,180912,56
+559,2019,Aston Martin,DBS Superleggera,160783,78
+560,1973,Lamborghini,Espada 400 GT,66694,66
+561,2018,ATS,GT,159476,15
+562,2019,RAESR,Tachyon Speed,23889,50
+563,2018,Mercedes-AMG,GT3,65388,74
+564,1980,Pantera,GTS,55767,25
+565,2017,Aston Martin,Vulcan AMR Pro,144887,33
+566,2019,Zenvo,TSR-S,50291,6
+567,2019,Porsche,Motorsport 935,156282,91
+568,2019,Porsche,911 Speedster,148728,56
+569,2018,Lamborghini,Huracán Performante,158006,1
+570,2018,Porsche,#73 Park Place Motorsports 911 GT3 R,44126,67
+571,2018,Ferrari,Portofino,176666,69
+572,2017,Ferrari,J50,43880,88
+573,2019,Ferrari,488 Pista,137396,93
+574,1999,Ford,Racing Puma,113200,95
+575,2018,Audi,#44 R8 LMS GT3,185508,95
+576,2017,Vauxhall,#66 Power Maxed TAG Racing Astra,109326,86
+577,1982,Volkswagen,Pickup LX,99644,26
+578,2018,Lamborghini,#63 Squadra Corse Huracán Super Trofeo Evo,75333,47
+579,2018,Acura,#36 NSX GT3,12277,56
+580,2018,Subaru,WRX STI ARX Supercar,83985,9
+581,2018,Peugeot,#7 DG Sport Compétition 308,193551,86
+582,1964,Plymouth,Belvedere,24305,43
+583,2018,Mercedes-AMG,E 63 S,26247,80
+584,2018,Ford,#98 Breathless Pro Racing TA Mustang,151670,41
+585,2018,Chevrolet,#23 Ruman Racing TA Corvette,57315,85
+586,1990,Nissan,Pulsar GTi-R,192403,16
+587,2018,Audi,RS 5 Coupe,22895,93
+588,1974,BRM,#14 Team Motul P201,19830,39
+589,1965,Lotus,Team Lotus type 35,156797,65
+590,1966,McLaren,#4 Bruce McLaren Motor Racing M1B,190499,40
+591,2018,SUBARU,#1 Adrian Flux SUBARU Racing Levorg GT,117614,86
+592,2018,Saleen,S1,28148,53
+593,2020,Ford,Mustang Shelby GT500,66404,42
+594,2015,Ford,Saleen S302 Black Label,87630,52
+595,2015,Cadillac,#3 Cadillac Racing ATS-V.R,11742,90
+596,1987,Porsche,AG 961 #203,8472,38
+597,2018,Cadillac,#57 TA CTS-V,198601,71
+598,2021,Hennessey,Camaro Exorcist,135756,17
+599,2019,Brabham,BT62,70896,25
+600,2018,Audi,TT RS,6928,54
+601,1991,Jaguar,Sport XJR-15,155939,86
+602,2018,Lamborghini,Aventador SVJ,103257,49
+603,2019,Dodge,#9 American V8 Road Racing TA Challenger,49082,87
+604,1993,Jaguar,XJ220S TWR,93732,96
+605,1981,Porsche,924 GTP Le Mans,53664,23
+606,1986,Lotus,Team Lotus 98T,191007,79
+607,2019,Nissan,370Z Nismo,173939,73
+608,1965,Lotus,#1 Team Lotus Type 40,91249,39
+609,1990,Oldsmobile,#75 Cutlass Supreme Trans Am,139280,52
+610,2018,Ferrari,FXX-K Evo,29803,71
+611,2019,Ferrari,Monza SP2,124560,1
+612,2020,Koenigsegg,Jesko,98099,39
+613,1985,Buick,#6 Performance Motorsports Somerset Regal Trans-Am,27826,37
+614,2018,Audi,RS 4 Avant,117994,27
+615,2019,Italdesign,DaVinci Concept,184341,56
+616,2016,Elemental,Rp1,44439,75
+617,1988,Nissan,Motorsport International R88C,144369,78
+618,2021,Audi,RS e-tron GT,108332,84
+619,2020,Automobili Pininfarina,Battista,132103,42
+620,1984,Nissan,Silvia Super Silhouette,71597,60
+621,1999,Nissan,Pennzoil NISMO Skyline GTR,51888,57
+622,2019,Aston Martin,Valhalla Concept Car,89399,57
+623,2015,Ligier,Euro international JS P3,96356,87
+624,2016,NIO,EP9,102166,28
+625,2019,Ferrari,F8 Tributo,125976,66
+626,2020,Chevrolet,Corvette Stingray Coupe,194406,61
+627,2020,Lamborghini,Huracán EVO,70293,95
+628,2019,Toyota,4Runner TRD Pro,198069,22
+629,2019,Toyota,Tacoma TRD Pro,98460,85
+630,2000,Formula Drift,Silvia #215,178311,11
+631,1967,Renault,8 Gordini,184208,37
+632,2020,Toyota,GR Supra,58744,66
+633,1978,Renault,Equipe Renault Elf R.S. 01,80283,85
+634,2019,SUBARU,STI S209,165712,82
+635,2021,Volkswagen,Golf R,179304,80
+636,2019,Toyota,86 TRD SE,91932,43
+637,2020,Toyota,Tundra TRD Pro,137903,12
+638,2020,Acura,#6 ARX-05 DPi,184997,97
+639,2011,Ginetta,G55 GT4,169317,31
+640,2019,Ginetta,G40 Junior,141023,87
+641,2020,BMW,M2 Competition Coupé,18162,40
+642,1990,Chevrolet,Beretta Trans AM,78937,29
+643,1970,Ford,Mustang Boss 302 Trans AM,95157,26
+644,2020,McLaren,GT,195983,19
+645,1961,DeBerti,Ford Econoline 'Shop Rod',42939,4
+646,2019,DeBerti,Ford Super Duty F-250 Lariat 'Transformer',197455,6
+647,2020,Porsche,Taycan Turbo S,190613,32
+648,2020,Lotus,Evija,72454,61
+649,2020,Audi,TT RS Coupe,68805,79
+650,2020,Audi,RS 3 Sedan,30654,99
+651,2020,Lexus,VASSER SULLIVAN RC F GT3,54382,10
+652,2019,Ginetta,#6 Team LNT Ginetta G60-LT-P1,59585,59
+653,2020,Chevrolet,Silverado LT Trail Boss,163994,54
+654,2021,McLaren,765LT Coupe,58646,81
+655,2020,Chevrolet,#3 Corvette Racing C8.R,194118,74
+656,2020,KTM,X-Bow GT2,76200,25
+657,1999,Nissan,#23 NISMO Clarion R391,149676,92
+658,2017,Saleen,S7 LM,140351,90
+659,2020,Saleen,Sportruck XR Black Label,50309,50
+660,1974,Porsche,#1 911 RSR,7357,64
+661,1966,Brabham,BT8,155084,52
+662,2020,BMW,M8 Competition Coupé,135129,32
+663,2021,Lexus,LC 500,141049,19
+664,1984,Toyota,Starlet Time Attack,133266,84
+665,2020,Formula Drift,Toyota GR Supra #151,153647,89
+666,1975,Nissan,Forsberg Racing Gold Leader Datzun 280Z,119913,1
+667,2021,Forsberg Racing,Nissan 'Altimaniac',32318,97
+668,2020,Hyundai,#98 Bryan Herta Autosport Veloster N,128498,99
+669,2022,Volkswagen,Golf R,26118,14
+670,2021,MINI,John Cooper Works GP,38012,100
+671,2020,MG,#20 MG6 XPower,156627,55
+672,1969,Chevron,B16,78931,29
+673,2022,Pagani,Huayra R,60345,23
+674,2020,Honda,#73 LA Honda World Racing Civic,91760,90
+675,2020,Lexus,RC F Track Edition,199371,67
+676,2020,Xpeng,P7,95985,60
+677,2013,Wuling,Sunshine S,27565,7
+678,2021,Alumi Craft,#122 Class 1 Buggy,76455,72
+679,2020,Formula Drift,BMW M2 #91,90799,32
+680,2020,Lynk & Co,#62 Cyan Racing 03,56685,16
+681,2005,Mitsubishi,Sierra Enterprises Lancer Evolution Time Attack,184652,59
+682,2011,BMW,X5 M Forza Edition,94725,18
+683,1953,Chevrolet,Corvette Forza Edition,9414,60
+684,2021,Aston Martin,DBX,32153,86
+685,2021,Audi,RS 6 Avant,63775,68
+686,2021,Audi,RS 7 Sportback,121634,72
+687,1972,Chevrolet,K10 Custom,5953,77
+688,2020,Ferrari,Roma,20740,41
+689,2020,Ferrari,SF90 Stradale,94776,97
+690,1986,Ford,F-150 XLT Lariat,15787,57
+691,2022,Gordon Murray Automotive,T.50,23380,79
+692,2019,Casey Currie Motorsports,#4402 Ultra 4 'Trophy Jeep',146411,93
+693,2020,Lamborghini,Essenza SCV12,38915,65
+694,2020,Mercedes-AMG,GT Black Series,31777,55
+695,2023,Nissan,Z,38173,71
+696,2020,Nissan,GT-R NISMO (R35),153658,58
+697,2021,Rimac,Nevera,27489,21
+698,2021,Toyota,GR Yaris,84812,96
+699,2022,Aston Martin,Valkyrie AMR Pro,119271,61
+700,2019,Lamborghini,Sián FKP 37,134883,58
+701,2021,BMW,M3 Competition Sedan,110458,34
+702,2021,BMW,M4 Competition Coupé,185380,97
+703,2021,Mercedes-AMG,Mercedes-AMG ONE,183183,32
+704,2017,Oreca,Performance Tech 07,147257,82
+705,2021,McLaren,620R,89410,36
+706,2022,Rivian,R1T,148907,99
+707,2022,Rivian,R1S,90230,100
+708,2021,RJ Anderson,#37 Polaris RZR Pro 4 Truck,146845,67
+709,2021,Porsche,911 GT3,156198,63
+710,2021,McLaren,Artura,186515,81
+711,2021,Cadillac,#31 Whelen Racing DPi-V.R,48468,31
+712,2020,Lamborghini,Huracán STO,115412,36
+713,2020,Lamborghini,SC20,34913,57
+714,2021,Hyundai,Elantra N #98,32281,10
+715,2021,Lynk & Co,03+,177448,92
+716,2020,Hyundai,i30N,51079,37
+717,1998,Toyota,Supra RZ 'Welcome Pack',41808,31
+718,2018,Apollo,Intensa Emozione 'Welcome Pack',191556,35
+719,2021,Polaris,RZR Pro XP Factory Racing Limited Edition,78377,43
+720,2021,MG,MG6 XPower,89870,41
+721,2022,Alumi Craft,#6165 Trick Truck,58756,70
+722,1965,Shelby,GT 500,37233,11
+723,2021,Porsche,Mission R,168061,18
+724,2021,McLaren,Sabre,112967,20
+725,1970,Hot Wheels,Pontiac Firebird Trans Am Custom,49781,30
+726,2023,Lotus,Emira,16909,50
+727,2022,Cadillac,CT4-V Blackwing,76224,89
+728,2022,Cadillac,CT5-V Blackwing,29939,20
+729,2022,GMC,HUMMER EV Pickup,199214,91
+730,2022,Ferrari,296 GTB,62592,28
+731,2022,BMW,i4 eDrive40,175183,9
+732,2022,SUBARU,BRZ,155208,54
+733,2022,Ford,Bronco Raptor,150255,53
+734,2022,BMW,iX xDrive50,161356,43
+735,1996,Formula Drift,#51 Donut Media Nissan 240SX,166773,70
+736,2003,Nissan,Donut Media 350Z 'Hi Car',164689,60
+737,2004,Nissan,Donut Media 350Z 'Low Car',192377,54
+738,2023,Formula Drift,#64 Forsberg Racing Nissan Z,91123,8
+739,2020,Audi,R8 V10 performance,111368,27
+740,2022,CUPRA,Formentor VZ5,89476,54
+741,2022,CUPRA,Tavascan Concept,193374,50
+742,2023,Lamborghini,Huracán Tecnica,97572,99
+743,2024,Czinger,21C,76383,75
+744,2020,Lamborghini,Huracan EVO Spyder,77769,90
+745,2022,Porsche,718 Cayman GT4 RS,166697,3
+746,2022,Toyota,GR86,189372,98
+747,2018,Aston Martin,AMR Vantage GTE,158200,74
+748,2023,BMW,M2,130153,49
+749,2023,Chevrolet,Corvette Z06,131930,62
+750,2022,Acura,NSX Type S,141069,1
+751,2024,Chevrolet,Corvette E-Ray,101340,46
+752,2021,Lamborghini,Countach LPI 800-4,189872,39
+753,2023,Porsche,911 GT3 RS,23739,97
+754,2023,Cadillac,#31 Whelen Engineering Cadillac Racing V-Series.R,187336,50
+755,2023,Meyers,Manx 2.0,100161,54
+756,2017,Mazda,MX-5 Cup,67937,69
+757,2020,Chevrolet,Corvette Stingray Coupe Forza Edition,128688,96
+758,2018,Chevrolet,Camaro ZL1 1LE Forza Edition,25613,95
+759,2019,Hyundai,Veloster N Forza Edition,86218,70
+760,2016,Mercedes-AMG,C 63 S Coupé Forza Edition,127692,78
+761,2019,SUBARU,STI S209 Forza Edition,27255,29
+762,2018,Porsche,911 GT2 RS Forza Edition,187510,63
+763,1956,Chevrolet,Barbie Movie' Corvette EV,89092,29
+764,2022,GMC,Barbie Movie' HUMMER EV PICKUP,164800,35
+765,2010,Nissan,Tsuru,145685,56
+766,2023,Lucid,Air Sapphire,173901,63
+767,2022,Mazda,MX-5 Miata RF,93611,4
+768,2023,Hyundai,IONIQ 5 N,176177,50
+769,1973,Fast and Furious,Datsun 240Z 'Fast X',194474,44
+770,1966,Fast and Furious,Chevrolet Impala Super Sport 'Fast X',183345,86
+771,2022,Fast and Furious,Dodge Charger SRT Hellcat Redeye Widebody 'Fast X',122707,87
+772,1970,Fast and Furious,Dodge Charger 'Fast X',125050,52
+773,2022,Fast and Furious,Flip Car 2.0 'Fast X',148200,93
+774,2024,Ford,Mustang GT '24,58846,22
+775,2024,Ford,Mustang Dark Horse,13737,60
+776,2023,Toyota,Camry TRD,79064,17
+777,2022,Hyundai,Elantra N,127520,80
+778,2023,Cadillac,#01 Cadillac Racing V-Series.R,40454,69
+779,2023,Cadillac,#2 Cadillac Racing V-Series.R,23531,4
+780,2024,Ford,Mustang RTR #88,66499,51
+781,2024,Ford,Mustang RTR #25,35350,76
+782,2023,Lamborghini,SC63,159575,73
+783,2023,Porsche,Penske 963,153963,85
+784,1996,Mitsubishi,Lancer Evolution III GSR,198652,4
+785,1976,BMW,3.0 CSL #1,134183,11
+786,2023,Lamborghini,Revuelto,165579,83
+787,2018,Lotus,Evora GT430,168092,55
+788,2023,BMW,Team RLL M Hybrid V8 #25,111171,18
+789,1997,Toyota,Mark II Tourer V JXZ100,65429,60
+790,2024,Ford,Mustang RTR #130,127351,24
+791,2023,BMW,M4 GT3 #96,177456,7
+792,2024,Nissan,Z NISMO,44440,34
+793,2021,Hyundai,i20N,56911,49
+794,2023,Porsche,911 GT3 R,64485,42
+795,2023,Porsche,911 Turbo S,166829,28
+796,1969,Chevrolet,Camaro Jordan Luka 3,106453,59
+797,2024,Toyota,NASCAR Next Gen Camry XSE,17395,42
+798,2024,Chevrolet,NASCAR Next Gen Camaro ZL1,193814,44
+799,2024,Ford,NASCAR Next Gen Mustang Dark Horse,28122,98
+800,2024,Ford,Mustang GT3,154181,49
+801,2015,Honda,Indy '25,185536,36
+802,2015,Chevy,Indy '25,76600,97
+803,1994,Ford,Supervan 3 'Donut Media Edition',195811,54
