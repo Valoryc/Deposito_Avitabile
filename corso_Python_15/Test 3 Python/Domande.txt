@@ -1,0 +1,63 @@
+1 DOMANDA: Cos'è un NumPY? a cosa serve?
+NumPY non è altro che una libreria che ci aiuta con il calcolo scientifico e ci fornisce degli array MULTIDIMENSIONALI, ma la caratteristica
+più importante è che ci aiuta con le operazioni vettoriali. E' utilizzato in vari settori come ad esempio l'analisi dei dati, il machine learning ecc.
+E' fornita di codice C/C++ che può integrare e ottimizzare le sue operazioni
+
+
+2 DOMANDA: Cos'è un MatplotLib? E seaborn? a cosa servono e cosa le distingue?
+MatplotLib è una libreria che ci permette di visualizzare i dati offrendo una grande
+scelta di grafici e dei suoi stili (Istogramma, Linee, ecc..), invece Seaborn è la versione 
+più evoluta di MatplotLib, ed è anch'essa una libreria con la quale creiamo grafici. La differenza
+tra le due è che con Seaborn si scrive di meno rispetto a Matplotlib;
+
+
+3 DOMANDA: Come si gestisce in Python I/O? quali altre librerie permettono di gestire questa funzionalità?
+Quando parliamo di I/O in Python, stiamo parlando della gestione dei file fondamentale per la lettura  e 
+la scrittura dei dati; Abbiamo visto i tre modi principali:
+
+    -open (): questo ci serve per l'apertura del file, esso accetta due parametri ovvero: il nome del file
+    o il percorso del file e la modalità di apertura, ad esempio read, write, append ecc..
+
+    -write (): questo ci serve per la scrittura del file, e nel caso in cui non dovesse esistere alcun file 
+    esso lo creerà.
+
+    -close (): questo ci serve per la chiusura del file in maniera generica, invece se usiamo closed è in maniera
+    più severa , e controlla se effettivamente il file è chiuso.
+
+Le librerie che accompagnano la I/O in Python sono diverse: NumPY, Pandas, MatplotLib:
+
+    -NumPY: libreria con la quale lavoriamo sugli array e sulle operazioni vettoriali
+
+    -Pandas: libreria utilizzata per la pulizia dei dati e di conseguenza la manipolazione dei dati
+
+    -MatplotLib: libreria attraverso la quale ci possiamo costruire dei grafici
+
+
+4 DOMANDA: Cos'è il Pandas? A cosa serve? Spiegalo
+Pandas è una libreria che viene utilizzata per la pulizia dei dati, e possiamo definirla anche come
+insieme di logiche più o meno correlate a NumPY. Occupandosi della pulizia dei dati, si permette di manipolare
+i dati per la creazione e la strutturazione di dati in maniera diversa; Introduciamo anche il dataframe le series:
+
+    -Dataframe: struttura bidimensionale (2D)(tabella), la quale si può completamente modificare grazie agli indici 
+    richiamati
+
+    -Series: struttura monodimensionale (1D)
+
+E' importante ricordare di utilizzare SOLO stringhe, poichè nell'uso dei numeri potrebbe confondersi con gli indici.
+
+
+5 DOMANDA: Quali sono le tre categorie che abbiamo visto delle librerie per l'analisi? a cosa servono? 
+Le librerie che abbiamo affrontato per l'analisi dei dati sono: NumPY, Pandas e MatplotLib/Seaborn;
+
+    -NumPY: libreria con la quale lavoriamo sugli array e sulle operazioni vettoriali
+
+    -Pandas: libreria utilizzata per la pulizia dei dati e di conseguenza la manipolazione dei dati
+
+    -MatplotLib: libreria attraverso la quale ci possiamo costruire dei grafici
+
+
+6 DOMANDA: Cos'è un operazione vettoriale? A cosa serve?
+Un operazione vettoriale la troviamo principalmente nella libreria NumPY e viene utilizzata
+per lavorare su più elementi o su tutti gli elementi contemporanemanete senza aver bisogno di cicli.
+Un operazione che può essere d'esempio è la somma.
+
