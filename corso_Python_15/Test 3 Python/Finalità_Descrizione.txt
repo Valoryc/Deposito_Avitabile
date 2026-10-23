@@ -1,0 +1,20 @@
+Nell'esercizio di oggi, per prima cosa sono andata a chiamarmi i due file csv attraverso la libreria Pandas,
+e li faccio leggere all'interno di due variabili apposite; per poi stampare i primi 5 e gli ultimi 5 elementi di entrambe
+le tabelle.
+Inizio con una selezione di aree di vendita e di unità vendute che mi saranno utili per il grafico più avanti nel programma.
+Successivamente applico un merge per unire i due file csv attraverso il nome del competitor siccome è l'elemento in comune tra
+i due.
+Grazie alla libreria Pandas, sono andata ad operare sui duplicati, facendo un controllo e nel caso rimuovendoli e manda tutto in stampa
+per mostrarlo. 
+Ho voluto fare un'attenta analisi realizzando due grafici nella quale vado a rappresentare quale prodotto è stato il più comrpato
+e in quale zona è stato più acquistato; vado anche va fericare in quale zona è piaciuto di più cosiderando le recensioni dei clienti, 
+utilizzando un operazione per fare la media.
+Ho calcolato anche il minimo prodotto acquistato e in quale zona, sottoforma di stampa a video.
+Ho utilizzato sia metodi della libreria Pandas sia della libreria Matplotlib, e con l'ultima libreria citata sono andata a creare due 
+grafici a video, specificando il tipo di grafico, le coordinate x e y, le quali ho sia citato prima, sia inizializzato prima, alcune richiamando
+solo le colonne degli appositi file, altre raggruppando gli elementi.
+Infine, per concludere il programma, volevo utilizzare un metodo che rimpiazzasse i numeri 0 (quindi null) con un valore univoco ovvero 1, non riuscendoci
+ho optato per l'assegnazione delle singole colonne con il valore univoco, e mandandolo in stampa poi.
+
+Ho trovato leggera difficoltà all'inizio non sapendo bene cosa potessi fare (e per la paura di non farcela), dopo un po' di tempo sono riuscita a sbloccarmi 
+e a creare un programma che a parer mio non è tutto completo di metodi imparati ma che almeno fa il minimo indispensabile.
